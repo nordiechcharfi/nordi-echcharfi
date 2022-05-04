@@ -1,0 +1,16 @@
+# main links
+main:
+#- title: "About"
+  #url: /index.md/
+- title: "CV"
+   # url: /about/
+- title: "Research"
+  url: /research/
+- title: "Teaching"
+  url: /teaching/
+- title: "Code"
+- title: "Blog"
+  url: /blog/
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
